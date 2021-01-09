@@ -1,2 +1,2 @@
 # PlotEnv
-Julia enviroment for plotting my projects
+Julia enviroment to plot my projects
